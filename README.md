@@ -136,4 +136,3 @@ It's not optimal for large `N`, but acceptable if `N` is small (e.g., ≤ 1000).
 
 ---
 
-Let me know if you want to optimize this or test with examples!
