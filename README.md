@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 **Problem Goal (High-Level)**
+### 🧠 **Problem Goal (High-Level)**
 
 For each test case, you're given an array of integers. The code tries to **maximize** the value of:
 
