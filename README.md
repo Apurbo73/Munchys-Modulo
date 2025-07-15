@@ -1,6 +1,5 @@
 ﻿# Munchys Modulo
 
-Sure! Let's walk through this **C++ code**, explain what it's doing, and clarify the **logic behind it**, step by step.
 
 ---
 
